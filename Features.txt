@@ -1,0 +1,18 @@
+Counter App Features (React + Tailwind CSS)
+
+1. Start, Stop, and Reset Buttons:
+   - Start: Begins the counter, incrementing the value by 1 every second.
+   - Stop: Pauses the counter, keeping the current value.
+   - Reset: Resets the counter value to zero.
+
+2. Persistent Counter:
+   - Even if you refresh the page, the counter value stays the same because it is saved in localStorage.
+
+3. Automatic Saving:
+   - Every time the counter updates, the new value is stored in localStorage.
+
+
+5. Clean UI with Tailwind CSS:
+   - Styled with Tailwind for a modern look (buttons with colors, rounded edges, shadows, and hover effects).
+
+Overall: A minimal, functional, and persistent counter app.
